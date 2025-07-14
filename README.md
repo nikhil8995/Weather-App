@@ -43,6 +43,3 @@ A beautiful, modern weather web app with animated backgrounds, dark mode, and de
 
 ## License
 MIT # Weather-App
-# Weather-App
-# Weather-App
-# Weather-App
